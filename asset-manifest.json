@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monsters-Place/static/css/main.937fceec.chunk.css",
+    "main.js": "/Monsters-Place/static/js/main.31e161e2.chunk.js",
+    "main.js.map": "/Monsters-Place/static/js/main.31e161e2.chunk.js.map",
+    "runtime-main.js": "/Monsters-Place/static/js/runtime-main.227004ec.js",
+    "runtime-main.js.map": "/Monsters-Place/static/js/runtime-main.227004ec.js.map",
+    "static/js/2.1b35cb52.chunk.js": "/Monsters-Place/static/js/2.1b35cb52.chunk.js",
+    "static/js/2.1b35cb52.chunk.js.map": "/Monsters-Place/static/js/2.1b35cb52.chunk.js.map",
+    "index.html": "/Monsters-Place/index.html",
+    "precache-manifest.5827fd938702dc8b4d56fd19e90286b6.js": "/Monsters-Place/precache-manifest.5827fd938702dc8b4d56fd19e90286b6.js",
+    "service-worker.js": "/Monsters-Place/service-worker.js",
+    "static/css/main.937fceec.chunk.css.map": "/Monsters-Place/static/css/main.937fceec.chunk.css.map",
+    "static/js/2.1b35cb52.chunk.js.LICENSE.txt": "/Monsters-Place/static/js/2.1b35cb52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.227004ec.js",
+    "static/js/2.1b35cb52.chunk.js",
+    "static/css/main.937fceec.chunk.css",
+    "static/js/main.31e161e2.chunk.js"
+  ]
+}
